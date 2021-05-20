@@ -1,14 +1,14 @@
-# # LinkedIn Clone Readme
+# # LinkedIn Clone 
 
-## <a href='https://linkedin-clone-b9f2a.web.app' target='_blank'>LIVE DEMO</a>
+## <a href='https://linkedin-clone-c8494.web.app/' target='_blank'>LIVE DEMO</a>
 
-## Description
-This is the ReactJS LinkedIn Clone, the perfect project to put on your portfolio by Clever Programmer.
+Followed the Clever Programmer's amazing Youtube video tutorial to develop this feed page of LinkedIn, which has additional features such as google sign in authentication and making posts which may be accompanied by images or video links!
 
-## Build it today!
+You can find the tutorial <a href="https://www.youtube.com/watch?v=xP3cxbDUtrc&t=14983s">here</a>.
 
-#### PREREQUISITES:
-- Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
-- Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a> (Select the LTS option)
-- Download all the images and videos <a href='https://drive.google.com/drive/folders/1czlG0rnLWJgNLhlU-tN6OVyB6xu1r5UU?usp=sharing'>HERE</a>
-- Watch full tutorial <a href='https://youtu.be/xP3cxbDUtrc'>HERE</a>
+### Tech Stack
+- React JS
+- Redux
+- Firebase
+- Google Authentication
+- Firestore
