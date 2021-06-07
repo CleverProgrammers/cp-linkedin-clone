@@ -22,4 +22,12 @@ function App() {
   );
 }
 
-export default App;
+const mapStateToProps = (state)=>{
+  return{};
+};
+const mapDispatchToProps=(dispatch)=>({
+  getUserAuth: ()=>dispatch(getUserAuth()),
+});
+
+export default connect(mapStateToProps, mapDispatchToProps)(App);
+
